@@ -1,1 +1,1 @@
-projeto de blockchain em TypeScript.
+Projeto amador de simulação de blockchain em ambiente controlado utilizando TypeScript.
